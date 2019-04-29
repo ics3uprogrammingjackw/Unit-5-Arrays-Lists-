@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\Wright, Jack\Unit 5 (Arrays & Lists)\MaxArrayJackW\MaxArrayJackW\bin\Debug\MaxArrayJackW.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Wright, Jack\Unit 5 (Arrays & Lists)\MaxArrayJackW\MaxArrayJackW\bin\Debug\MaxArrayJackW.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Wright, Jack\Unit 5 (Arrays & Lists)\MaxArrayJackW\MaxArrayJackW\bin\Debug\MaxArrayJackW.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Wright, Jack\Unit 5 (Arrays & Lists)\MaxArrayJackW\MaxArrayJackW\obj\Debug\MaxArrayJackW.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Wright, Jack\Unit 5 (Arrays & Lists)\MaxArrayJackW\MaxArrayJackW\obj\Debug\MaxArrayJackW.frmMaxArray.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Wright, Jack\Unit 5 (Arrays & Lists)\MaxArrayJackW\MaxArrayJackW\obj\Debug\MaxArrayJackW.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Wright, Jack\Unit 5 (Arrays & Lists)\MaxArrayJackW\MaxArrayJackW\obj\Debug\MaxArrayJackW.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Wright, Jack\Unit 5 (Arrays & Lists)\MaxArrayJackW\MaxArrayJackW\obj\Debug\MaxArrayJackW.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Wright, Jack\Unit 5 (Arrays & Lists)\MaxArrayJackW\MaxArrayJackW\obj\Debug\MaxArrayJackW.pdb
