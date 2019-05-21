@@ -83,5 +83,10 @@ namespace MaxArrayJackW
             lblMaxValue.Text = "The max value is: " + maxValue;
 
         }
+
+        private void frmMaxArray_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
