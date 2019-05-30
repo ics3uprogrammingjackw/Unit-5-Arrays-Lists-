@@ -52,12 +52,16 @@ namespace ReadWriteJackW
 
         private void btnCheck_Click(object sender, EventArgs e)
         {
+            //Reads all lines in input file
             string[] lines = System.IO.File.ReadAllLines(@"input.txt");
 
+            //Creates a character array
             char[] charSeperators = new char[] {' ', '\t' };
 
+            //creates output string
             string output = "";
 
+            //Parses through each string and determines whether the two strings in the input file at a similar location are equal
             foreach (string line in lines)
             {
                 string[] words = line.Split(charSeperators, StringSplitOptions.RemoveEmptyEntries);
@@ -73,8 +77,10 @@ namespace ReadWriteJackW
                 }
             }
 
+            //Creates the output file 
             System.IO.File.WriteAllText(@"output.txt", output);
 
+            //Display output label
             this.lblOutput.Show();
 
         }

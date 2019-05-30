@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+MinArrayJackW/.vs/MinArrayJackW/v15/.suo
+MinArrayJackW/.vs/MinArrayJackW/v15/.suo
+MinArrayJackW/MaxArrayJackW/obj/Debug/DesignTimeResolveAssemblyReferences.cache
